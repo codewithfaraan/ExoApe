@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: gilroy;
+    src: url(./components/fonts/Gilroy-SemiBold.ttf);
+}
+
+body {
+    overflow-x: hidden;
+}
